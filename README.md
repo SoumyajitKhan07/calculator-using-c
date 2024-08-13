@@ -5,6 +5,7 @@
 - SEMESTER: 2ND
 - DEPARTMENT: BCA
 
+
 # Simple Calculator Program in C
 
 This is a simple calculator program written in C that can perform basic arithmetic operations like addition, subtraction, multiplication, and division.
